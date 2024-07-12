@@ -20,9 +20,3 @@ Usage
 .Enter the amount you want to convert in the "Amount" input field.
 .Click the "Convert" button to see the converted amount.
 
-Usage
-.Open the index.html file in your web browser.
-.Select the currency you want to convert from in the "From" dropdown menu.
-.Select the currency you want to convert to in the "To" dropdown menu.
-.Enter the amount you want to convert in the "Amount" input field.
-.Click the "Convert" button to see the converted amount.
